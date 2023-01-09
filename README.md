@@ -28,10 +28,11 @@ To deploy the app to a production server, run the following command:
 npm run build && npm start
 ```
 ## Built With
-Next.js - A framework for building server-rendered React apps
-Redux - A state management library for JavaScript apps
+1. Next.js - A framework for building server-rendered React apps
+2. Redux - A state management library for JavaScript apps
 
-## Paul - Paulinhx
+## Author
+[paulinhx]
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
