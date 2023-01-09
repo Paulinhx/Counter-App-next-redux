@@ -11,7 +11,7 @@ git clone https://github.com/Paulinhx/Counter-App-next-redux.git
 2. Install the dependencies
 
 ```bash
-cd Counter-App-next-redux
+cd [YOUR_REPOSITORY]
 npm install
 ```
 3. Start the development server
