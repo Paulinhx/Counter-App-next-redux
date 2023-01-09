@@ -32,10 +32,10 @@ npm run build && npm start
 2. Redux - A state management library for JavaScript apps
 
 ## Author
-[paulinhx]
+[Paulinhx](https://github.com/Paulinhx)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License -
 
 ***********************************************
 
