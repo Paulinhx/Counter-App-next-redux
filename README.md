@@ -1,3 +1,44 @@
+# Counter App
+ A simple app that allows you to increment or decrement a counter. Built with Next.js and Redux.
+
+## Getting Started
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Paulinhx/Counter-App-next-redux.git
+```
+2. Install the dependencies
+
+```bash
+cd Counter-App-next-redux
+npm install
+```
+3. Start the development server
+
+```bash
+npm run dev
+```
+The app should now be running on http://localhost:3000.
+
+## Deployment
+
+To deploy the app to a production server, run the following command:
+```bash
+npm run build && npm start
+```
+## Built With
+Next.js - A framework for building server-rendered React apps
+Redux - A state management library for JavaScript apps
+
+## Paul - Paulinhx
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+***********************************************
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
